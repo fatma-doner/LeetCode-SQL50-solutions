@@ -1,5 +1,4 @@
 # LeetCode-SQL50-solutions
-# My LeetCode SQL50 Solutions
 
 Hey there!  
 This repo is where I’m collecting all my solutions to the LeetCode SQL 50 problem set.  
